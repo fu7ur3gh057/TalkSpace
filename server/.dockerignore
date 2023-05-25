@@ -1,0 +1,4 @@
+migrations/*
+app/db/migrations/*
+.idea
+__pycache__/
